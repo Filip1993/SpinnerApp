@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+    <string name="text_multiline">Text MultiLine:</string>
+    <string name="postal_address">Postal Address:</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="send">Send</string>
+</resources>
